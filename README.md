@@ -33,6 +33,9 @@ TaskManager is a web application designed to help users manage their tasks effec
   <li><h6>DeleteUser:</h6><href>localhost:8080/taskApp/delete/{userId}</li>
     <li><h6>getTaskWithUserId</h6>localhost:8080/taskApp/get/102</li>
 </ul>
+<br>
+<h6><b><i>[TaskManager GitHub Repository for UI Part ](https://github.com/PallKum/TaskManagerUI)
+</b></h6>
 
 
 
