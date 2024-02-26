@@ -30,7 +30,7 @@ TaskManager is a web application designed to help users manage their tasks effec
 <h4>Additional-EndPoints:</h4>
 
 <ul>
-  <li><h6>DeleteUser:</h6>localhost:8080/taskApp/delete/{userId}</li>
+  <li><h6>DeleteUser:</h6><href>localhost:8080/taskApp/delete/{userId}</li>
 </ul>
 
 
